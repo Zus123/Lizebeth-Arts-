@@ -1,0 +1,27 @@
+
+
+@font-face {
+	font-family: MTCORSVA;
+    src: url(fonts/MTCORSVA.TTF);
+}
+
+@font-face {
+	font-family: Gilroy;
+	src: url(fonts/Gilroy-Light.otf);
+}
+
+
+.MTCORSVA {
+    font-family: MTCORSVA;
+}
+
+.Gilroy {
+    font-family: Gilroy;
+}
+
+
+
+
+
+
+
