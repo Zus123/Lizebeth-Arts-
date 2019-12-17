@@ -6,6 +6,11 @@
 }
 
 @font-face {
+	font-family: Streetscript;
+    src: url(fonts/Streetscript_Free.ttf);
+}
+
+@font-face {
 	font-family: Gilroy;
 	src: url(fonts/Gilroy-Light.otf);
 }
@@ -13,6 +18,10 @@
 
 .MTCORSVA {
     font-family: MTCORSVA;
+}
+
+.Streetscript {
+    font-family: Streetscript;
 }
 
 .Gilroy {
